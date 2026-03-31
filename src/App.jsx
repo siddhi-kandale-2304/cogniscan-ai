@@ -14,8 +14,8 @@ import {
   User,
   Users,
   ChevronLeft,
-  CalendarClock,
-} from "lucide-react";
+  CalendarClock
+} from 'lucide-react';
 import "./index.css";
 
 // Pre-seed realistic data 
