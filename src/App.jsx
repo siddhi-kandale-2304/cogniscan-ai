@@ -1,3 +1,4 @@
+// redeploy fix 
 import React, { useState, useEffect, useRef } from 'react';
 import { AreaChart, Area, XAxis, Tooltip, ResponsiveContainer, CartesianGrid, BarChart, Bar } from 'recharts';
 import {
