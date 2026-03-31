@@ -14,7 +14,6 @@ import {
   ShieldPlus,
   ChevronLeft,
   CalendarClock,
-  BellRing
 } from "lucide-react";
 import "./index.css";
 
