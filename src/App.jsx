@@ -11,7 +11,6 @@ import {
   CheckCircle2,
   User,
   Users,
-  ShieldPlus,
   ChevronLeft,
   CalendarClock,
 } from "lucide-react";
