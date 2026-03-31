@@ -4,7 +4,7 @@ import {
   Activity, AlertTriangle, Clock, MessageSquare, LayoutDashboard, TrendingUp, 
   Lightbulb, CheckCircle2, User, Users, ShieldPlus, ChevronLeft, CalendarClock, BellRing
 } from 'lucide-react';
-import './App.css';
+import "./index.css";
 
 // Pre-seed realistic data 
 const initialHistory = [
