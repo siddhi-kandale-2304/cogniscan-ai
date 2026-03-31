@@ -1,9 +1,21 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { AreaChart, Area, XAxis, Tooltip, ResponsiveContainer, CartesianGrid, BarChart, Bar } from 'recharts';
-import { 
-  Activity, AlertTriangle, Clock, MessageSquare, LayoutDashboard, TrendingUp, 
-  Lightbulb, CheckCircle2, User, Users, ShieldPlus, ChevronLeft, CalendarClock, BellRing
-} from 'lucide-react';
+import {
+  Activity,
+  AlertTriangle,
+  Clock,
+  MessageSquare,
+  LayoutDashboard,
+  TrendingUp,
+  Lightbulb,
+  CheckCircle2,
+  User,
+  Users,
+  ShieldPlus,
+  ChevronLeft,
+  CalendarClock,
+  BellRing
+} from "lucide-react";
 import "./index.css";
 
 // Pre-seed realistic data 
